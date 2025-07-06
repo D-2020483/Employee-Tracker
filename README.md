@@ -47,6 +47,7 @@ This application provides a user-friendly interface for managing employee record
 
 - Frontend Repo: [Employee Tracker Frontend](https://github.com/D-2020483/Employee_Tracker_Frontend)
 - Backend Repo: [Employee Tracker Backend](https://github.com/D-2020483/Employee_Tracker_Backend)
---
+
+---
 
 ![updatedone](https://github.com/user-attachments/assets/f275ae50-01d3-4ebf-8afb-306bb764b622)
